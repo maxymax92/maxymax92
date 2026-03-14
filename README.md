@@ -14,6 +14,11 @@ I also build things. Properly. Using both my actual hands and also via bespoke a
 
 **Tessera** *(private, in development)* — A GPU-accelerated, terminal-native IDE with a Policy-as-Code governance engine for agentic coding security. Every agent action intercepted and evaluated by a dual policy engine (regorus + cedar-policy). Rust 2024 edition, wgpu 28 rendering across Metal/Vulkan/DX12/WebGPU, alacritty_terminal emulation, multi-agent control plane, MCP gateway with per-tool permissions, A2A protocol gateway. SOC 2, ISO 27001, NIST 800-53, OWASP Agentic Top 10 compliance mapping with OSCAL export.
 
+<p align="left">
+  <a href="https://github.com/maxymax92/maxymax92">
+    <img src="E47D56B2-DAC3-43CE-BBE2-5A1D7BA806FF.png" alt="Tessera Terminal" width="360" />
+  </a>
+</p>
 ---
 
 ### Stack
