@@ -2,7 +2,7 @@
 
 Technical Program Manager by day. Engineer by night (and weekends, and some lunch breaks).
 
-I deliver technology programmes, plus drive forward Architecture decisions, integration strategy, security & compliance assurance, stakeholder wrangling, go-live. The whole thing.
+I deliver technology programs & projects, plus drive forward architecture decisions, integration strategy, security & compliance assurance, stakeholder wrangling, go-live. The whole thing.
 
 I also build things. Properly. Using both my actual hands and also via bespoke ai coding agent workflows/ tools that after many lessons learnt, i think I may have actually got to a half decent place. (I just jinxed myself).
 
