@@ -30,3 +30,5 @@ I also build things. Properly. Using both my actual hands and also via bespoke a
 ### Where to find me
 
 [LinkedIn](https://www.linkedin.com/in/maxshahi) · London, UK
+
+PS - This is a new gh profile I opened a few months back, replacing my previous that was still connected to my job from several years back! terrible IAM.
